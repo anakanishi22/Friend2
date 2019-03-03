@@ -26,6 +26,10 @@ app.use(sassMiddleware({
 }));
 app.use(express.static(path.join(__dirname, 'public')));
 
+var port = process.env.PORT||3000;
+app.listen(port,function(){
+});
+
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
