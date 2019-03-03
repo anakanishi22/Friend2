@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(to right, #a6f9a4 0%, #fcb8d1 100%);
+}
+
+
+h1 {
+  font:calibri;
+  text-align: center;
+  font-weight: 80;
+  font-size: 100px;
+}
+
+h2{
+  font:calibri;
+  font-size: 60px;
+  text-align: center;
+}
+
+p {
+  font:calibri;
+  text-align: center;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+li {
+  font:calibri;
+  font-size: 25px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.button{
+    height:60px;
+    width:120px;
+    background-color: #99eeff;
+    margin-left: 240px;
+    font:calibri;
+    font-size: 20px;
+}

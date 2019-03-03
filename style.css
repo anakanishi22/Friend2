@@ -1,0 +1,47 @@
+
+body {
+    background: linear-gradient(to right, #a6f9a4 0%, #fcb8d1 100%);
+}
+
+h1 {
+  font: lato;
+  text-align: center;
+  font-weight: 100;
+  font-size: 100px
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+  font: lato;
+  font-weight: 100;
+  margin: 100px
+  color: #77a5ef
+  text-align: center;
+  font-size: 25px
+}
+
+h2 {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size:30px;
+}
+
+h3 {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 30px;
+}
+
+
+.button{
+    height:60px;
+    width:120px;
+    background-color: #99eeff;
+    margin-left: 240px;
+    font:calibri;
+    font-size: 20px;
+}
+img {
+  margin-left: 300PX
+}
